@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_srmbmeetlogo.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\srmbmeetlogo.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_password_lock.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_password_lock.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_step4_inactive.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_step4_inactive.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_attendees.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\attendees.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_toptech.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\toptech.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\raw_gpsnotify.mp3.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\raw\\gpsnotify.mp3"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_user.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_rounded_corner_bg.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\bottom_rounded_corner_bg.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_header.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_packing.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\packing.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_banners.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\banners.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_account.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layoutshapelogin.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\layoutshapelogin.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_untitledbanner.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\untitledbanner.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_start_point.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_start_point.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_bidsucessfullpopup.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\bidsucessfullpopup.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icdriver.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\icdriver.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vehiclechehklist.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_vehiclechehklist.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pdf.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\pdf.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_truck_assigned.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_truck_assigned.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rupee_icon.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_rupee_icon.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_step1_inactive.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_step1_inactive.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_camera.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_weightmentslip.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_weightmentslip.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_step1_active.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_step1_active.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vehicleunsealed.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_vehicleunsealed.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_bayicon.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_bayicon.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vehicledetails.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_vehicledetails.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_step3_inactive.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_step3_inactive.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shapselected.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\shapselected.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_my_rating_display.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\my_rating_display.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appicon.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\appicon.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_genrelcompany.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_genrelcompany.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_enter_mobile_number.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_enter_mobile_number.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_history_fragment.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\history_fragment.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_loading.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_loading.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_info.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_info.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circleshape.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\circleshape.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_selector.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\background_selector.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_citywhite.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\citywhite.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_documentfile.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_documentfile.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_step4_active.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_step4_active.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rating_fill.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\rating_fill.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_terms_conditions.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_terms_conditions.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meetingdetails.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\meetingdetails.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vehiclereported.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_vehiclereported.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_metric_ton.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_metric_ton.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_white.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_add_white.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bordercolor.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\bordercolor.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rating_empty.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\rating_empty.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_city.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\city.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_available.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\available.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cross.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\cross.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vehiclesealed.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_vehiclesealed.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buttunselector.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\buttunselector.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_calendar_gray.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_calendar_gray.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_selector_new.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\tab_selector_new.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hide.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_hide.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_step2_inactive.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_step2_inactive.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bidding_details.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\fragment_bidding_details.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_orderbuttonstyle.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\orderbuttonstyle.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_indicator.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\progress_indicator.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_filter_white.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_filter_white.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pop.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_pop.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_grid_on.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_grid_on.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_clock_orange_1.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_clock_orange_1.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_driver_details.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_driver_details.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_my_load_truck_front.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_my_load_truck_front.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_layoutshape.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\layoutshape.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\right.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\shape.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_my_bid_truck_front.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_my_bid_truck_front.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bayroute.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\bayroute.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_step3_active.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_step3_active.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circleshapegreen.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\circleshapegreen.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_selector.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_unavailable.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\unavailable.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_srmbsplash.jpg.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\srmbsplash.jpg"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meeting.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\meeting.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\loading.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vehicleout.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_vehicleout.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reload.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\reload.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_homewhite.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_homewhite.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_greenshapselected.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\greenshapselected.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_splash.jpg.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\splash.jpg"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_document.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\document.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_appiconwhite.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\appiconwhite.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_green_rounded_corner_bg.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\green_rounded_corner_bg.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_live_items_row.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\live_items_row.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_camera_alt_black_24dp.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_camera_alt_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_step2_active.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_step2_active.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_end_point.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_end_point.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_corner_bg.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\rounded_corner_bg.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_live_fragment.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\live_fragment.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_show.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_show.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vehiclein.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_vehiclein.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_home_black.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_box_white.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\rounded_box_white.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chechk.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_chechk.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sync.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\sync.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_grid_off.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_grid_off.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vehicleunloading.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_vehicleunloading.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_attendee.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\attendee.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_srmb.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\srmb.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.jpg.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\login.jpg"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\layout_companylistpopup.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\layout\\companylistpopup.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_box.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_box.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_red_corner_bg.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\red_corner_bg.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vehiclechecklist.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_vehiclechecklist.xml"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Ayan\\Bidjunction_new_main\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete_black_512dp.xml.flat",
+        "source": "F:\\Ayan\\Bidjunction_new_main\\app\\src\\main\\res\\drawable\\ic_delete_black_512dp.xml"
+    }
+]

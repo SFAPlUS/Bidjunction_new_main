@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".Activities.HomeActivity">
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/colorPrimaryDark"
+            app:popupTheme="@style/AppTheme.PopupOverlay">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView
+                    android:id="@+id/menuheader"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentStart="true"
+                    android:layout_centerVertical="true"
+                    android:scaleType="fitStart"
+                    android:layout_margin="4dp"
+                    android:src="@drawable/appicon" />
+
+                <RelativeLayout
+                    android:id="@+id/collapse_view"
+                    android:layout_width="110dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_toLeftOf="@+id/menuRight"
+                    android:orientation="vertical"
+                    android:padding="5dp"
+                    android:visibility="visible">
+
+                    <!--Icon of floating widget -->
+                    <ImageView
+                        android:id="@+id/sync"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_marginTop="8dp"
+                        android:padding="3dp"
+                        android:src="@drawable/reload"
+                        android:visibility="gone"
+                        tools:ignore="ContentDescription" />
+
+                    <!--Close button-->
+
+                    <TextView
+                        android:id="@+id/close_btn"
+                        android:layout_width="20dp"
+                        android:layout_height="20dp"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerInParent="true"
+                        android:layout_marginLeft="15dp"
+                        android:text="10"
+                        android:textAlignment="center"
+                        android:textColor="@color/white"
+                        android:visibility="gone"
+                        tools:ignore="ContentDescription" />
+
+                </RelativeLayout>
+
+                <ImageView
+                    android:id="@+id/home"
+                    android:layout_width="57dp"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_marginEnd="85dp"
+                    android:padding="15dp"
+                    android:src="@drawable/ic_homewhite" />
+
+                <ImageView
+                    android:id="@+id/menuRight"
+                    android:layout_width="84dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerInParent="true"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="10dp"
+                    android:padding="8dp"
+                    android:src="@drawable/ic_menu" />
+            </RelativeLayout>/>
+        </androidx.appcompat.widget.Toolbar>
+
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <include layout="@layout/content_main"/>
+
+
+
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -1,0 +1,336 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bidding.dell.BIDJUNCTION"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.VIBRATE" />
+11-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:45:5-66
+11-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:45:22-63
+12    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+12-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:46:5-75
+12-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:46:22-72
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:47:5-67
+13-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:47:22-64
+14    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+14-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:48:5-71
+14-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:48:22-68
+15    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+15-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:49:5-74
+15-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:49:22-71
+16    <uses-permission android:name="android.permission.READ_PROFILE" />
+16-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:50:5-71
+16-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:50:22-68
+17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+17-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:51:5-81
+17-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:51:22-78
+18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+18-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:52:5-80
+18-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:52:22-77
+19    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+19-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:46:5-75
+19-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:46:22-72
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:54:5-79
+20-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:54:22-76
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:55:5-68
+21-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:55:22-65
+22    <uses-permission android:name="android.permission.READ_CONTACTS" />
+22-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:56:5-72
+22-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:56:22-69
+23    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:57:5-81
+23-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:57:22-78
+24    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+24-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:58:5-79
+24-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:58:22-76
+25    <uses-permission android:name="android.permission.CAMERA" />
+25-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:59:5-65
+25-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:59:22-62
+26    <uses-permission android:name="android.permission.VIBRATE" />
+26-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:45:5-66
+26-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:45:22-63
+27    <uses-permission android:name="android.permission.BLUETOOTH" />
+27-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:61:5-68
+27-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:61:22-65
+28    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+28-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:62:5-78
+28-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:62:22-75
+29    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+29-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:54:5-79
+29-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:54:22-76
+30
+31    <uses-feature
+31-->[com.google.android.gms:play-services-maps:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d0feabf76ec92532226844ffad2c1d90\jetified-play-services-maps-12.0.1\AndroidManifest.xml:26:5-28:35
+32        android:glEsVersion="0x00020000"
+32-->[com.google.android.gms:play-services-maps:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d0feabf76ec92532226844ffad2c1d90\jetified-play-services-maps-12.0.1\AndroidManifest.xml:27:9-41
+33        android:required="true" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+33-->[com.google.android.gms:play-services-maps:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\d0feabf76ec92532226844ffad2c1d90\jetified-play-services-maps-12.0.1\AndroidManifest.xml:28:9-32
+34    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+34-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:26:5-82
+34-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:26:22-79
+35
+36    <permission
+36-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:28:5-30:47
+37        android:name="com.bidding.dell.BIDJUNCTION.permission.C2D_MESSAGE"
+37-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:29:9-63
+38        android:protectionLevel="signature" />
+38-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:30:9-44
+39
+40    <uses-permission android:name="com.bidding.dell.BIDJUNCTION.permission.C2D_MESSAGE" />
+40-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:32:5-79
+40-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:32:22-76
+41
+42    <application
+42-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:5:5-44:19
+43        android:allowBackup="true"
+43-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:6:9-35
+44        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+44-->[androidx.core:core:1.0.0] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\4fa96a30a609219e9d73eea686ac383a\core-1.0.0\AndroidManifest.xml:22:18-86
+45        android:debuggable="true"
+46        android:icon="@drawable/appicon"
+46-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:7:9-41
+47        android:label="@string/app_name"
+47-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:8:9-41
+48        android:largeHeap="true"
+48-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:9:9-33
+49        android:networkSecurityConfig="@xml/network_security_config"
+49-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:10:9-69
+50        android:requestLegacyExternalStorage="true"
+50-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:11:9-52
+51        android:roundIcon="@drawable/appicon"
+51-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:12:9-46
+52        android:supportsRtl="true"
+52-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:13:9-35
+53        android:theme="@style/AppTheme"
+53-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:14:9-40
+54        android:usesCleartextTraffic="true" >
+54-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:15:9-44
+55        <activity android:name="com.bidding.dell.BIDJUNCTION.Activities.LoginActivity" />
+55-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:16:9-71
+55-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:16:19-59
+56        <activity
+56-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:18:9-22:55
+57            android:name="com.bidding.dell.BIDJUNCTION.Activities.HomeActivity"
+57-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:19:13-52
+58            android:label="@string/app_name"
+58-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:20:13-45
+59            android:theme="@style/AppTheme.NoActionBar"
+59-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:21:13-56
+60            android:windowSoftInputMode="adjustPan" />
+60-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:22:13-52
+61        <activity android:name="com.bidding.dell.BIDJUNCTION.Activities.SplashActivity" >
+61-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:24:9-30:20
+61-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:24:19-60
+62            <intent-filter>
+62-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:25:13-29:29
+63                <action android:name="android.intent.action.MAIN" />
+63-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:26:17-69
+63-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:26:25-66
+64
+65                <category android:name="android.intent.category.LAUNCHER" />
+65-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:28:17-77
+65-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:28:27-74
+66            </intent-filter>
+67        </activity>
+68
+69        <provider
+70            android:name="androidx.core.content.FileProvider"
+70-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:32:13-62
+71            android:authorities="com.bidding.dell.BIDJUNCTION.provider"
+71-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:33:13-60
+72            android:exported="false"
+72-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:34:13-37
+73            android:grantUriPermissions="true" >
+73-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:35:13-47
+74            <meta-data
+74-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:36:13-38:58
+75                android:name="android.support.FILE_PROVIDER_PATHS"
+75-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:37:17-67
+76                android:resource="@xml/provider_paths" />
+76-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:38:17-55
+77        </provider>
+78
+79        <uses-library
+79-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:41:9-43:40
+80            android:name="org.apache.http.legacy"
+80-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:42:13-50
+81            android:required="false" />
+81-->F:\Ayan\Bidjunction_new_main\app\src\main\AndroidManifest.xml:43:13-37
+82
+83        <activity
+83-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9d0dbde515d30d14495acc88a4011183\jetified-play-services-auth-12.0.1\AndroidManifest.xml:23:9-27:75
+84            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+84-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9d0dbde515d30d14495acc88a4011183\jetified-play-services-auth-12.0.1\AndroidManifest.xml:24:13-93
+85            android:excludeFromRecents="true"
+85-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9d0dbde515d30d14495acc88a4011183\jetified-play-services-auth-12.0.1\AndroidManifest.xml:25:13-46
+86            android:exported="false"
+86-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9d0dbde515d30d14495acc88a4011183\jetified-play-services-auth-12.0.1\AndroidManifest.xml:26:13-37
+87            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+87-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9d0dbde515d30d14495acc88a4011183\jetified-play-services-auth-12.0.1\AndroidManifest.xml:27:13-72
+88        <!--
+89            Service handling Google Sign-In user revocation. For apps that do not integrate with
+90            Google Sign-In, this service will never be started.
+91        -->
+92        <service
+92-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9d0dbde515d30d14495acc88a4011183\jetified-play-services-auth-12.0.1\AndroidManifest.xml:33:9-36:110
+93            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+93-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9d0dbde515d30d14495acc88a4011183\jetified-play-services-auth-12.0.1\AndroidManifest.xml:34:13-89
+94            android:exported="true"
+94-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9d0dbde515d30d14495acc88a4011183\jetified-play-services-auth-12.0.1\AndroidManifest.xml:35:13-36
+95            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+95-->[com.google.android.gms:play-services-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\9d0dbde515d30d14495acc88a4011183\jetified-play-services-auth-12.0.1\AndroidManifest.xml:36:13-107
+96
+97        <meta-data
+97-->[com.google.maps.android:android-maps-utils:0.5] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0fea13b72652ebe5103166b88ef908ca\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+98            android:name="com.google.android.gms.version"
+98-->[com.google.maps.android:android-maps-utils:0.5] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0fea13b72652ebe5103166b88ef908ca\jetified-android-maps-utils-0.5\AndroidManifest.xml:9:13-58
+99            android:value="@integer/google_play_services_version" />
+99-->[com.google.maps.android:android-maps-utils:0.5] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\0fea13b72652ebe5103166b88ef908ca\jetified-android-maps-utils-0.5\AndroidManifest.xml:10:13-66
+100        <!--
+101             FirebaseMessagingService performs security checks at runtime,
+102             no need for explicit permissions despite exported="true"
+103        -->
+104        <service
+104-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8b47d1405f6cedce3e877a80a9f6090e\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:28:9-34:19
+105            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+105-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8b47d1405f6cedce3e877a80a9f6090e\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:29:13-82
+106            android:exported="true" >
+106-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8b47d1405f6cedce3e877a80a9f6090e\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:30:13-36
+107            <intent-filter android:priority="-500" >
+107-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8b47d1405f6cedce3e877a80a9f6090e\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:31:13-33:29
+107-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8b47d1405f6cedce3e877a80a9f6090e\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:31:28-51
+108                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+108-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8b47d1405f6cedce3e877a80a9f6090e\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:32:17-78
+108-->[com.google.firebase:firebase-messaging:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\8b47d1405f6cedce3e877a80a9f6090e\jetified-firebase-messaging-12.0.1\AndroidManifest.xml:32:25-75
+109            </intent-filter>
+110        </service>
+111
+112        <activity
+112-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5fde351c70d21d7f53d8231387fe0ae8\jetified-firebase-auth-12.0.1\AndroidManifest.xml:23:9-29:75
+113            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+113-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5fde351c70d21d7f53d8231387fe0ae8\jetified-firebase-auth-12.0.1\AndroidManifest.xml:24:13-85
+114            android:excludeFromRecents="true"
+114-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5fde351c70d21d7f53d8231387fe0ae8\jetified-firebase-auth-12.0.1\AndroidManifest.xml:25:13-46
+115            android:exported="true"
+115-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5fde351c70d21d7f53d8231387fe0ae8\jetified-firebase-auth-12.0.1\AndroidManifest.xml:26:13-36
+116            android:launchMode="singleInstance"
+116-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5fde351c70d21d7f53d8231387fe0ae8\jetified-firebase-auth-12.0.1\AndroidManifest.xml:27:13-48
+117            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+117-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5fde351c70d21d7f53d8231387fe0ae8\jetified-firebase-auth-12.0.1\AndroidManifest.xml:28:13-102
+118            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+118-->[com.google.firebase:firebase-auth:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\5fde351c70d21d7f53d8231387fe0ae8\jetified-firebase-auth-12.0.1\AndroidManifest.xml:29:13-72
+119        <activity
+119-->[com.google.android.gms:play-services-base:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\58c4d13d4ab931e87cdd1b944387bc93\jetified-play-services-base-12.0.1\AndroidManifest.xml:23:9-26:75
+120            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+120-->[com.google.android.gms:play-services-base:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\58c4d13d4ab931e87cdd1b944387bc93\jetified-play-services-base-12.0.1\AndroidManifest.xml:24:13-79
+121            android:exported="false"
+121-->[com.google.android.gms:play-services-base:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\58c4d13d4ab931e87cdd1b944387bc93\jetified-play-services-base-12.0.1\AndroidManifest.xml:25:13-37
+122            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+122-->[com.google.android.gms:play-services-base:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\58c4d13d4ab931e87cdd1b944387bc93\jetified-play-services-base-12.0.1\AndroidManifest.xml:26:13-72
+123
+124        <receiver
+124-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:28:9-32:20
+125            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+125-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:29:13-85
+126            android:enabled="true"
+126-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:30:13-35
+127            android:exported="false" >
+127-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:31:13-37
+128        </receiver>
+129        <receiver
+129-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:33:9-41:20
+130            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+130-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:34:13-100
+131            android:enabled="true"
+131-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:35:13-35
+132            android:exported="true"
+132-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:36:13-36
+133            android:permission="android.permission.INSTALL_PACKAGES" >
+133-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:37:13-69
+134            <intent-filter>
+134-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:38:13-40:29
+135                <action android:name="com.android.vending.INSTALL_REFERRER" />
+135-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:39:17-79
+135-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:39:25-76
+136            </intent-filter>
+137        </receiver>
+138
+139        <service
+139-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:43:9-46:40
+140            android:name="com.google.android.gms.measurement.AppMeasurementService"
+140-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:44:13-84
+141            android:enabled="true"
+141-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:45:13-35
+142            android:exported="false" />
+142-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:46:13-37
+143        <service
+143-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:47:9-51:72
+144            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+144-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:48:13-87
+145            android:enabled="true"
+145-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:49:13-35
+146            android:exported="false"
+146-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:50:13-37
+147            android:permission="android.permission.BIND_JOB_SERVICE" />
+147-->[com.google.firebase:firebase-analytics:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\3ee949eecd23b5771b78aede6d401b70\jetified-firebase-analytics-12.0.1\AndroidManifest.xml:51:13-69
+148
+149        <receiver
+149-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:35:9-44:20
+150            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+150-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:36:13-78
+151            android:exported="true"
+151-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:37:13-36
+152            android:permission="com.google.android.c2dm.permission.SEND" >
+152-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:38:13-73
+153            <intent-filter>
+153-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:39:13-43:29
+154                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+154-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:40:17-81
+154-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:40:25-78
+155
+156                <category android:name="com.bidding.dell.BIDJUNCTION" />
+156-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:42:17-61
+156-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:42:27-58
+157            </intent-filter>
+158        </receiver>
+159        <!--
+160             FirebaseInstanceIdService performs security checks at runtime,
+161             no need for explicit permissions despite exported="true"
+162        -->
+163        <service
+163-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:50:9-56:19
+164            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+164-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:51:13-77
+165            android:exported="true" >
+165-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:52:13-36
+166            <intent-filter android:priority="-500" >
+166-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:53:13-55:29
+166-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:53:28-51
+167                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+167-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:54:17-80
+167-->[com.google.firebase:firebase-iid:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\784e931fb6b4330c610b6405695b2313\jetified-firebase-iid-12.0.1\AndroidManifest.xml:54:25-77
+168            </intent-filter>
+169        </service>
+170
+171        <provider
+171-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7325d925b4ae5f3160e90a361b36127a\jetified-firebase-common-12.0.1\AndroidManifest.xml:8:9-12:39
+172            android:name="com.google.firebase.provider.FirebaseInitProvider"
+172-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7325d925b4ae5f3160e90a361b36127a\jetified-firebase-common-12.0.1\AndroidManifest.xml:9:13-77
+173            android:authorities="com.bidding.dell.BIDJUNCTION.firebaseinitprovider"
+173-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7325d925b4ae5f3160e90a361b36127a\jetified-firebase-common-12.0.1\AndroidManifest.xml:10:13-72
+174            android:exported="false"
+174-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7325d925b4ae5f3160e90a361b36127a\jetified-firebase-common-12.0.1\AndroidManifest.xml:11:13-37
+175            android:initOrder="100" />
+175-->[com.google.firebase:firebase-common:12.0.1] C:\Users\Dell\.gradle\caches\transforms-2\files-2.1\7325d925b4ae5f3160e90a361b36127a\jetified-firebase-common-12.0.1\AndroidManifest.xml:12:13-36
+176    </application>
+177
+178</manifest>

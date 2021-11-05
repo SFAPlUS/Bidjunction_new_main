@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_bays"
+                    android:icon="@drawable/ic_bayicon"
+                    android:title="Bays" />
+                <item
+                    android:id="@+id/nav_bayitem"
+                    android:icon="@drawable/ic_bayicon"
+                    android:title="Bay Item Map" />
+                <item
+                    android:id="@+id/nav_otscontrol"
+                    android:icon="@drawable/ic_clock_orange_1"
+                    android:title="OTS Control" />
+                <item
+                    android:id="@+id/nav_chnagecompany"
+                    android:icon="@drawable/ic_genrelcompany"
+                    android:title="Switch Company" />
+                <item
+                    android:id="@+id/nav_Logout"
+                    android:icon="@drawable/ic_account"
+                    android:title="Logout" />
+
+
+
+            </group>
+
+</menu>

@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Bid Junction</string>
+
+    <string name="email_address_mobile_no">Email Address/Mobile No</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="regis_new_user">Register New User</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="full_name">Full Name</string>
+    <string name="retype_password_8_characters">Retype Password (Minimum 8 Characters)</string>
+    <string name="password_8_characters">Password (Minimum 8 Characters)</string>
+    <string name="your_phone_number">Your Phone Number</string>
+    <string name="get_opt">GET OTP</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="already_registered">Already registred</string>
+    <string name="sign_in">Sign In</string>
+
+    <!---Cloud-->
+    <string name="server_url">http://15.207.231.118/bidjunctionapi/</string>
+    <string name="sfaserver_url">http://15.207.231.118/srmbsfa</string>
+    <!---Stage-->
+    <!--    <string name="server_url">http://122.160.112.157/ordrtrckng</string>-->
+    <string name="image_server_url">http://staging.logibaba.com/docs/imageFolder/</string>
+
+    <!--LIVE URL-->
+    <string name="socket_receive_url">http://www.logibaba.com:8080/LogisticServerApplication</string>
+    <!--&lt;!&ndash;<string name="image_server_url">http://www.logibaba.com:8080/docs/imageFolder/</string>&ndash;&gt;-->
+    <string name="socket_send_url">http://www.logibaba.com:8080/LogisticServerApplication</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="loc_warning">You need to Accept Location Permission.</string>
+    <string name="accpet_continue"><![CDATA[Accept & Continue]]></string>
+    <string-array name="VehicleType">
+        <item>"Choose"</item>
+        <item>"Truck"</item>
+        <item>"Trailer"</item>
+    </string-array>
+    <string-array name="CounterType">
+        <item>"Choose"</item>
+        <item>"Truck"</item>
+        <item>"Trailer"</item>
+    </string-array>
+
+    <string-array name="BrandNames">
+        <item>"Choose Brand Names"</item>
+        <item>"SRMB"</item>
+        <item>"SAIL"</item>
+        <item>"TATATISCON"</item>
+        <item>"PANTHER"</item>
+        <item>"JSW"</item>
+        <item>"ELEGANT"</item>
+        <item>"CAPTAIN"</item>
+        <item>"SHYAM"</item>
+        <item>"Other"</item>
+    </string-array>
+    <string-array name="OtherBrandNames">
+        <item>"Choose Other Brand Names"</item>
+        <item>"TOPTECH"</item>
+        <item>"ADHUNIK"</item>
+        <item>"CONCAST"</item>
+        <item>"ANKIT"</item>
+        <item>"PRESTIGE"</item>
+        <item>"SEL"</item>
+        <item>"SHRICON"</item>
+        <item>"SUPERSHAKTI"</item>
+        <item>"KAMDHENU"</item>
+        <item>"GAGAN"</item>
+        <item>"THERMOCON"</item>
+        <item>"ULTRAMAX"</item>
+        <item>"Other"</item>
+    </string-array>
+    <string-array name="Sitetype">
+        <item>"Choose Site Type"</item>
+        <item>"IHB-OWNHOUSE"</item>
+        <item>"APARTMENT/COMPLEX"</item>
+        <item>"COMMERCIAL"</item>
+        <item>"INSTITUTION"</item>
+        <item>"OTHER"</item>
+    </string-array>
+    <string-array name="Sitestatus">
+        <item>"Choose Site Status"</item>
+        <item>"PROPOSE"</item>
+        <item>"PRELIMINARY"</item>
+        <item>"UNDERCONSTRUCTION"</item>
+        <item>"ABOUTTOCOMPLETE"</item>
+        <item>"OTHERS"</item>
+    </string-array>
+    <string-array name="adminStatus">
+        <item>"Scheduled"</item>
+        <item>"Vehicle Reported"</item>
+        <item>"Vehicle In"</item>
+        <item>"Under Loading"</item>
+        <item>"Ready To Dispatch"</item>
+        <item>"Vehicle Out"</item>
+        <item>"Delivered"</item>
+    </string-array>
+    <string-array name="secStatus">
+        <item>"Scheduled"</item>
+        <item>"Vehicle Reported"</item>
+        <item>"Vehicle In"</item>
+        <item>"Under Loading"</item>
+        <item>"Ready To Dispatch"</item>
+        <item>"Vehicle Out"</item>
+    </string-array>
+    <string-array name="factory">
+        <item>"Choose Remarks"</item>
+        <item>"Please Upload Transport Authorisation"</item>
+        <item>"ERP Order Not Done"</item>
+        <item>"Driver not responding"</item>
+        <item>"Packaging materials not available with vehicle "</item>
+        <item>"Vehicle fail to comply co. norms"</item>
+        <item>"Others"</item>
+    </string-array>
+    <string-array name="superStatus">
+        <item>"Under Loading"</item>
+    </string-array>
+
+</resources>
