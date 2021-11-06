@@ -65,7 +65,6 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
     private Location mylocation;
     public static int backCount;
 
-    //List<SiteSurveyBo> siteSurveyBos;
     Timer LocationUpdateTimers = new Timer();
    // List<LeadOuletBO> leadOuletBOS;
     private final static int REQUEST_CHECK_SETTINGS_GPS = 0x1;
