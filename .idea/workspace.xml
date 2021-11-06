@@ -19,13 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65847d94-93fa-4612-af37-13a390ea9a82" name="Default Changelist" comment="" />
+    <list default="true" id="65847d94-93fa-4612-af37-13a390ea9a82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R9ZR20PBDFW]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -93,6 +95,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
@@ -214,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636116162617</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="freshly made new">
+      <created>1636118482269</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636118482269</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,7 +243,8 @@
     <MESSAGE value="freshly made" />
     <MESSAGE value="freshly made2" />
     <MESSAGE value="freshly made3" />
-    <option name="LAST_COMMIT_MESSAGE" value="freshly made3" />
+    <MESSAGE value="freshly made new" />
+    <option name="LAST_COMMIT_MESSAGE" value="freshly made new" />
   </component>
   <component name="WindowStateProjectService">
     <state x="685" y="293" key="#Notifications" timestamp="1636109093370">
@@ -248,14 +259,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="605" y="136" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1636103811603" />
-    <state x="427" y="0" key="CommitChangelistDialog2" timestamp="1636116161370">
+    <state x="427" y="0" key="CommitChangelistDialog2" timestamp="1636118468943">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="427" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1636116161370" />
-    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1636118367629">
+    <state x="427" y="0" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1636118468943" />
+    <state x="580" y="171" key="FileChooserDialogImpl" timestamp="1636174793176">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1636118367629" />
+    <state x="580" y="171" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1636174793176" />
     <state x="675" y="328" width="308" height="276" key="Github.ShareDialog" timestamp="1636118330715">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -276,21 +287,21 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1540" height="220" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1636105827971" />
-    <state x="301" y="75" key="SettingsEditor" timestamp="1636117676392">
+    <state x="301" y="75" key="SettingsEditor" timestamp="1636174854955">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1636117676392" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1636117396205">
+    <state x="301" y="75" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1636174854955" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1636174640722">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1636117396205" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1636174640722" />
     <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1636107610963">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="609" y="344" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1636107610963" />
-    <state x="601" y="336" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1636118260452">
+    <state x="601" y="336" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1636118614532">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="601" y="336" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860@0.0.1600.860" timestamp="1636118260452" />
+    <state x="601" y="336" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1600.860@0.0.1600.860" timestamp="1636118614532" />
   </component>
 </project>
